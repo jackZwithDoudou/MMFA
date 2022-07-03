@@ -1,5 +1,9 @@
 ### Code Package for MMFA
 
+<p align="center">
+<img src="https://github.com/jackZwithDoudou/MMFA/blob/49675318849009a4f0777f950758d10718dd26e3/MMFA-model.svg" width=100% height=100% 
+class="center">
+</p>
 ### Environment
 - Python: 3.6.13
 - Pytorch: 1.6.0
