@@ -1,6 +1,9 @@
 ### Code Package for MMFA
 
-Yusheng, Cheng; Qingyan, Li; Yibin, Wang; Weijie, Zheng. Multi-view multi-label learning with view feature attention allocation submitted to Neurocomputing.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/8370623/148624004-e9581042-ea4d-4e10-b3bd-42c92b02053b.png" width=100% height=100% 
+class="center">
+</p>
 
 ### Environment
 - Python: 3.6.13
@@ -16,4 +19,18 @@ python main.py
 - if you want to modify configure, you can reference to config.py
 - 'emotions.mat' is a data set for demo
 
-GOOD LUCK!
+## Citation
+If you find this repository helpful, please consider citing:
+```
+@Article{CHENG2022857,
+  author  = {Yusheng, Cheng; Qingyan, Li; Yibin, Wang; Weijie, Zheng},
+  title   = {Multi-view multi-label learning with view feature attention allocation},
+  journal = {Neurocomputing},
+  volume = {501},
+  pages = {857-874},
+  year = {2022},
+  issn = {0925-2312},
+  doi = {https://doi.org/10.1016/j.neucom.2022.06.068},
+  url = {https://www.sciencedirect.com/science/article/pii/S0925231222008025},
+}
+```
